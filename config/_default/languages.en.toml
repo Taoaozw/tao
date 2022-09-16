@@ -5,19 +5,19 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
+title = "TAO"
 # logo = "img/logo.png"
-description = "My awesome website"
+description = "往来那船舶 经岛屿芬芳 将网里星辰逐一捕获"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Your name here"
+  name = "CLIVE  BLOG"
   image = "img/blowfish_logo.png"
-  headline = "I'm only human"
+  headline = "往来那船舶 经岛屿芬芳 将网里星辰逐一捕获"
   bio = "A little bit about you"
-  # links = [
+   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -30,7 +30,7 @@ dateFormat = "2 January 2006"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+     { github = "https://github.com/Taoaozw" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
@@ -52,11 +52,11 @@ dateFormat = "2 January 2006"
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
-  #   { telegram = "https://t.me/username" },
+     { telegram = "https://t.me/CLIVETAO" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]
